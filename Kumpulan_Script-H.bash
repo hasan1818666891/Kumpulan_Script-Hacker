@@ -1,3 +1,8 @@
+#Mau Ngapain Anak Anjing
+
+#Gw Sumpahin Yang  Recode Script Gw Bakal Sial Sumur Hidup!!
+!!
+#Gw Capek Anjing Hargain Lah Gk usah Copy Paste Anak Ngentod
 #!/bin/bash
 clear
 
